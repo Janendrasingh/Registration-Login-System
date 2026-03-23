@@ -24,7 +24,7 @@ A simple console-based Registration and Login System built using C++. This proje
 1. Registration  
 - User enters a Login ID
 - User sets a Password (minimum 8 characters)
-- Data is saved into a file (Login.txt)
+- Data is saved into a file **(Login.txt)**
 2. Login  
 - User enters credentials
 - Program reads file and validates input
